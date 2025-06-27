@@ -23,4 +23,4 @@ Alternatively you can use ```configs/config_partial.yaml``` to train including p
 
 ```source /cvmfs/sft.cern.ch/lcg/views/LCG_103_LHCB_7/x86_64-centos7-clang12-opt/setup.sh```
 
-
+```python train.py configs/config_full.yaml log_dir```
