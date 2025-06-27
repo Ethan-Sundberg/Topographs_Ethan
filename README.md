@@ -16,7 +16,11 @@ Alternatively you can use ```configs/config_partial.yaml``` to train including p
 
 ## My Steps to run train.py
 ```cd nobackup/BBto2b4tau/CMSSW_13_2_10/```
+
 ```cmsenv```
+
 ```cd ../Topographs_Ethan/```
+
 ```source /cvmfs/sft.cern.ch/lcg/views/LCG_103_LHCB_7/x86_64-centos7-clang12-opt/setup.sh```
+
 
