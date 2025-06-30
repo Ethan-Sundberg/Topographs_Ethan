@@ -276,7 +276,7 @@ class ModelBaseClass(tf.keras.Model):
         val_dataset = val_dataset.batch(self.config["batch_size"])
         n_batches = tf.data.experimental.cardinality(train_dataset)
 
-        self.optimizer = tf.keras.optimizers.experimental.AdamW()
+        self.optimizer = tf.keras.optimizers.Adam() #experimental.AdamW()
         self.get_lr_schedule(n_batches)
 
         with train_summary_writer.as_default():

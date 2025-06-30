@@ -1,0 +1,108 @@
+
+📁 File: preds_edges_tops.npy
+   Shape: (76001, 16, 2, 1)
+   Dtype: float32
+   First few values:
+[0.00017769 0.01457304 0.00583577 0.0002388  0.00159827]
+
+📁 File: preds_edges_ws.npy
+   Shape: (76001, 16, 2, 1)
+   Dtype: float32
+   First few values:
+[7.0220311e-05 9.9872094e-01 9.9907047e-01 2.9447468e-04 9.9958557e-01]
+
+📁 File: preds_tops.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[-0.47005486 -1.4191804   0.19145764  0.7152549   1.0671684 ]
+
+📁 File: preds_tops_0.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[ 0.6287094   1.0860573   0.01427197 -0.08246145 -1.4557577 ]
+
+📁 File: preds_tops_1.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[-0.23889315 -1.4932004   0.14279328  0.57754815  1.2264174 ]
+
+📁 File: preds_tops_2.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[ 0.46774638  1.1682001  -0.01141485 -0.2726377  -1.4370095 ]
+
+📁 File: preds_tops_edges_0.npy
+   Shape: (76001, 16, 2, 1)
+   Dtype: float32
+   First few values:
+[0.41355324 0.00305749 0.0032192  0.01819327 0.00255517]
+
+📁 File: preds_tops_edges_1.npy
+   Shape: (76001, 16, 2, 1)
+   Dtype: float32
+   First few values:
+[0.00019426 0.07438429 0.00365578 0.00064035 0.00628446]
+
+📁 File: preds_tops_edges_2.npy
+   Shape: (76001, 16, 2, 1)
+   Dtype: float32
+   First few values:
+[0.00034219 0.03090533 0.00435765 0.00054126 0.00296231]
+
+📁 File: preds_tops_initial.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[-0.22863299 -1.5746732   0.05223352  0.54984164  1.1055382 ]
+
+📁 File: preds_ws.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[-0.7190021  -1.7144145  -0.00377138  0.33739686  1.6684138 ]
+
+📁 File: preds_ws_0.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[ 0.49677086  1.0625283  -0.0360341  -0.74868095 -1.7059678 ]
+
+📁 File: preds_ws_1.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[-0.71106    -1.7135093  -0.0163926   0.31505302  1.8802844 ]
+
+📁 File: preds_ws_2.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[ 0.31441927  1.7317475  -0.06013801 -0.71810776 -1.7302018 ]
+
+📁 File: preds_ws_edges_0.npy
+   Shape: (76001, 16, 2, 1)
+   Dtype: float32
+   First few values:
+[0.80103904 0.00571838 0.01153649 0.9892511  0.00990595]
+
+📁 File: preds_ws_edges_1.npy
+   Shape: (76001, 16, 2, 1)
+   Dtype: float32
+   First few values:
+[7.1957859e-04 9.9007404e-01 9.9923885e-01 5.3138536e-04 9.9902475e-01]
+
+📁 File: preds_ws_edges_2.npy
+   Shape: (76001, 16, 2, 1)
+   Dtype: float32
+   First few values:
+[3.7479310e-04 9.9747401e-01 9.9907047e-01 5.8462512e-04 9.9932730e-01]
+
+📁 File: preds_ws_initial.npy
+   Shape: (76001, 2, 3)
+   Dtype: float32
+   First few values:
+[-0.74599016 -1.7617562   0.02586007  0.39971587  1.4042497 ]
